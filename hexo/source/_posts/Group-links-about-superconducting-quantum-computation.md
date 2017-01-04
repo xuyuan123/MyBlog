@@ -51,6 +51,13 @@ This article gives some usefull links about the superconducting quantum computat
 	- [Alexandre Blais Group][18]
 - **Benjamin Huard Group:**
 	- [QUANTUM CIRCUIT GROUP][19]
+- **KIT GROUP:**
+	- [KIT GROUP][21]
+- **Quantum Coherence GROUP:**
+	- [Quantum Coherence GROUP][20]
+- **Quantronics Group:**
+	- [Quantronics Group][22]
+
 
 
 
@@ -73,4 +80,7 @@ This article gives some usefull links about the superconducting quantum computat
   [17]: https://quantumids.com/
   [18]: http://www.physique.usherbrooke.ca/blais/?sec=epiq_publi&lan=FR
   [19]: http://physinfo.fr/#
+  [20]: http://neel.cnrs.fr/spip.php?rubrique50
+  [21]: http://www.phi.kit.edu/ustinov.php
+  [22]: http://iramis.cea.fr/drecam/spec/Pres/Quantro/static/index.html
   
