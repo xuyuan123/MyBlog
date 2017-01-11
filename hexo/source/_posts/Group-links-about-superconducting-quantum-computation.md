@@ -25,8 +25,6 @@ This article gives some usefull links about the superconducting quantum computat
 	- [Quantum Device Lab][5]
 - **Irfan Siddiqi:**
 	- [Quantum Nanoelectronics Laboratory][6]
-- **Jerry M. Chow:**
-	- [IBM group][7]
 - **Vijay:**
 	- [Vijay Group][16]
 - **John Martinis:**
@@ -57,7 +55,11 @@ This article gives some usefull links about the superconducting quantum computat
 	- [Quantum Coherence GROUP][20]
 - **Quantronics Group:**
 	- [Quantronics Group][22]
-
+- **Jerry M. Chow:**
+	- [IBM group][7]
+	- [arxiv link][24]
+- **QUANTIC group:**
+	- [QUANTIC group][23]
 
 
 
@@ -83,4 +85,5 @@ This article gives some usefull links about the superconducting quantum computat
   [20]: http://neel.cnrs.fr/spip.php?rubrique50
   [21]: http://www.phi.kit.edu/ustinov.php
   [22]: http://iramis.cea.fr/drecam/spec/Pres/Quantro/static/index.html
-  
+  [23]: https://team.inria.fr/quantic/index.html
+  [24]: https://arxiv.org/find/quant-ph/1/au:+Chow_J/0/1/0/all/0/1
