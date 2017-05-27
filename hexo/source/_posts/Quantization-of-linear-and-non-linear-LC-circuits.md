@@ -13,7 +13,7 @@ When designing a quantum circuit, it's important to find the Hamiltonian and qua
 
 <!--more-->
 
-## 1.Single linear LC resonator
+## Single linear LC resonator
 A general linear LC circuit is shown in figure 1. 
 ![Figure1: linear LC circuit][1]
 We use the node varible $\Phi$ as the generalized coordinate. Then the voltage across the capacitor is $V=\frac{d\Phi}{dt}=\dot{\Phi}$
@@ -51,7 +51,7 @@ These formulars are very important in the following sections.
 
 ---
 
-## 2.Two capacitance coupled linear LC circuit
+## Two capacitance coupled linear LC circuit
 In many cases, we will deal with two or more LC circuit coupled together. In this section, we will talk about two linear LC circuit capacitance coupled together, which is shown in figure 2. 
 ![Figure2: two capacitance coupled linear LC circuit][2]
 Following the method described above, we can easily write the Lagrangian function of the coupled LC circuit:
@@ -145,7 +145,7 @@ $$V = -\frac{\beta Q\_{ZPF1}Q\_{ZPF2}}{C\_{2\Sigma}} \left( a\_1^{\dagger} - a\_
 
 ---
 
-## 3.Two inductance coupled linear LC circuit
+## Two inductance coupled linear LC circuit
 How about the two LC resonators are coupled by an inductor? we then talk about how to deal with tihs plobem. Figure 3 shows the two LC resonators coupled by an inductor.
 ![Figure3: two inductance coupled linear LC circuit][3]
 The method is similar to what I have described in the first two sections. First I will give the simple Lagrangian function directly.
@@ -213,7 +213,7 @@ $$V = \frac{\hbar}{2L\_0 \sqrt{Z\_1 Z\_2}}\left( a\_1^{\dagger} + a\_1 \right)\l
 
 ---
 
-## 4.Single non-linear LC circuit
+## Single non-linear LC circuit
 Usually, we want to specifily drive the two energy levels in the resonator energy levels and find it's difficult because the linear resonator has equaly energy levels and each two of them have the same transition frequency.Therefore, we want have a non-equaly energy levels system. Then we will need to utilize the non-linear LC circuit elements.
 The only non-liner LC circuit element is the Josephson junction, which serves as a non-linear inductor. The energy stored in this non-linear inductor can be expressed as:
 $$H\_L = - E\_J \cos{\varphi}$$
@@ -305,7 +305,7 @@ H &= \hbar \tilde{\omega}\_1 a\_1^{\dagger} a\_1 -\frac{E\_C}{2}a\_1^{\dagger}a\
 
 ---
 
-## 5.Cooper pair box qubit capacitance coupled to a linear LC resonator
+## Cooper pair box qubit capacitance coupled to a linear LC resonator
 
 Then we will deal with the situation of coupling a linear LC resonator to a Cooper pair box qubit. figure 5 shows the coupled system circuit.
 ![Figure5: cooper pair box qubit capacitance coupled to a resonator][5]
@@ -396,14 +396,14 @@ Here, the modified qubit frequency is: $\omega\_1' = \tilde{\omega}\_1 + \frac{g
 
 ---
 
-## 6.Two capacitance coupled cooper pair box qubits
+## Two capacitance coupled cooper pair box qubits
 From now on, we have only talked about one cooper pair box qubit coupled to a resonator. In this section, I will try to deal with two cooper pair box qubits capacitance coupled together, which is shown in figure6.
 ![Figure6: Two capacitance coupled cooper pair box qubits][6]
 The analysis method is same as the above sections and I leave it as an exercise to enhance the method I have described above.
 
 ---
 
-## 7.Josephson ring modulator
+## Josephson ring modulator
 Finally, I want to show a more complex circuit called Josephson ring modulator (JRM) circuit which consists of four identical Josephson junctions. The circuit is shown in figure 7.
 ![Figure7: Josephson ring modulator circuit][7]
 

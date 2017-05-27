@@ -13,7 +13,7 @@ This article summaries the wildly used Pauli operators and its matrix representa
 
 <!--more-->
 
-## 1.Pauli operators
+## Pauli operators
 The basic three Pauli operators are: $\sigma\_x$, $\sigma\_y$ and $\sigma\_z$. In the following, I will show the commute relationship and anti-commute relationship between these Pauli operators.
 $$\left[ \sigma\_x, \sigma\_y \right] = 2i \sigma\_z \quad ; \quad \left\\{ \sigma\_x, \sigma\_y \right\\} =0$$
 $$\left[ \sigma\_y, \sigma\_z \right] = 2i \sigma\_x \quad ; \quad \left\\{ \sigma\_y, \sigma\_z \right\\} =0$$
@@ -36,7 +36,7 @@ $$\left[ \sigma\_{-}, \sigma\_{z} \right] = 2 \sigma\_{-} \quad ; \quad \left\\{
 
 ---
 
-## 2.Pauli matrixes
+## Pauli matrixes
 Because $\sigma\_z$ and $\sigma^2$ are commuted $\left[ \sigma\_z, \sigma^2 \right]$=0, we can choose common representation of these two operators.
 $$\sigma\_z \left|z^{+} \right> = \left|z^{+} \right>$$
 $$\sigma\_z \left|z^{-} \right> = - \left|z^{-} \right>$$
@@ -81,7 +81,7 @@ $$\sigma\_{-} = \left| g \right> \left< e \right| $$
 
 ---
 
-## 3.n-level system truncate to 2-level system
+## n-level system truncate to 2-level system
 For a n-level system, we have the creation and annihilation operators $a^{\dagger}$ and $a$ for the Fock states. When only considering the first two energy levels $\left| 0 \right>$ and $\left| 1 \right>$, we have some relations:
 $$a \left| 0 \right> = 0 $$
 $$a \left| 1 \right> = \left| 0 \right> $$
@@ -101,5 +101,5 @@ H &= \hbar \omega \left( a^{\dagger} a + \frac{1}{2} \right)
 
 ---
 
-## 4.Summary
+## Summary
 This article summaries the properties of all the Pauli operators and exihibits the conresponding relation between a truncated n-level system and a 2-level system.

@@ -15,28 +15,38 @@ This article gives some usefull links about the superconducting quantum computat
 
 - **Rob Schoelkopf:**
 	- [SchoelkopfLab][1]
+	- [arxiv link][25]
 - **Michel H. Devoret:**
 	- [Qlab][2]
+	- [arxiv link][26]
 - **David Schuster:**
 	- [SchusterLab][3]
+	- [arxiv link][27]
 - **Leo DiCarlo:**
 	- [DiCarlo Lab at Delft University][4]
+	- [arxiv link][28]
 - **Andreas Wallraff:**
 	- [Quantum Device Lab][5]
+	- [arxiv link][29]
 - **Irfan Siddiqi:**
 	- [Quantum Nanoelectronics Laboratory][6]
+	- [arxiv link][30]
 - **Vijay:**
 	- [Vijay Group][16]
+	- [arxiv link][31]
 - **John Martinis:**
 	- [UCSB group][8]
+	- [arxiv link][32]
 - **William D. Oliver:**
 	- [MIT Engineering Quantum Systems][9]
+	- [arxiv link][33]
 - **Dr. Mark Gouker:**
 	- [QUANTUM INFORMATION AND INTEGRATED NANOSYSTEMS][11]
 - **Terry P. Orlando: **
 	- [RLE:superconducting circuits and quantum computation group][13]
 - **Yasunobu Nakamura:**
 	- [Nakamura-Usami Group][10]
+	- [arxiv link][34]
 - **John Clarke:**
 	- [Clarke Group][12]
 - **Gary A. Steele:**
@@ -47,6 +57,7 @@ This article gives some usefull links about the superconducting quantum computat
 	- [Quantum IDs][17]
 - **Alexandre Blais Group:**
 	- [Alexandre Blais Group][18]
+	- [arxiv link][35]
 - **Benjamin Huard Group:**
 	- [QUANTUM CIRCUIT GROUP][19]
 - **KIT GROUP:**
@@ -68,7 +79,7 @@ This article gives some usefull links about the superconducting quantum computat
   [3]: http://schusterlab.uchicago.edu/index.html
   [4]: http://dicarlolab.tudelft.nl/
   [5]: http://qudev.ethz.ch/andreas_wallraff
-  [6]: http://research.physics.berkeley.edu/siddiqi/index.html
+  [6]: http://physics.berkeley.edu/people/faculty/irfan-siddiqi
   [7]: http://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=us-chowmj&t=1
   [8]: http://web.physics.ucsb.edu/~martinisgroup/
   [9]: http://equs.mit.edu/
@@ -87,3 +98,14 @@ This article gives some usefull links about the superconducting quantum computat
   [22]: http://iramis.cea.fr/drecam/spec/Pres/Quantro/static/index.html
   [23]: https://team.inria.fr/quantic/index.html
   [24]: https://arxiv.org/find/quant-ph/1/au:+Chow_J/0/1/0/all/0/1
+  [25]: https://arxiv.org/find/all/1/all:+Schoelkopf/0/1/0/all/0/1
+  [26]: https://arxiv.org/find/quant-ph/1/au:+Devoret_M/0/1/0/all/0/1
+  [27]: https://arxiv.org/find/quant-ph/1/au:+Schuster_D/0/1/0/all/0/1
+  [28]: https://arxiv.org/find/quant-ph/1/au:+DiCarlo_L/0/1/0/all/0/1
+  [29]: https://arxiv.org/find/quant-ph/1/au:+Wallraff_A/0/1/0/all/0/1
+  [30]: https://arxiv.org/find/quant-ph/1/au:+Siddiqi_I/0/1/0/all/0/1
+  [31]: https://arxiv.org/find/cond-mat/1/au:+Vijay_R/0/1/0/all/0/1
+  [32]: https://arxiv.org/find/quant-ph/1/au:+Martinis_J/0/1/0/all/0/1
+  [33]: https://arxiv.org/find/cond-mat/1/au:+Oliver_W/0/1/0/all/0/1
+  [34]: https://arxiv.org/find/quant-ph/1/au:+Nakamura_Y/0/1/0/all/0/1
+  [35]: https://arxiv.org/find/quant-ph/1/au:+Blais_A/0/1/0/all/0/1

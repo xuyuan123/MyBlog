@@ -11,7 +11,7 @@ tags: [git]
 
 <!--more-->
 
-### git 常用操作汇总
+## git 常用操作汇总
 
 ```
 git add -A
@@ -28,7 +28,7 @@ git remote
 git remote -v
 ```
 
-### 参考链接
+## 参考链接
 
 [常用git命令][1]
 [git 教程][2]

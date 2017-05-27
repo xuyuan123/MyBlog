@@ -16,7 +16,7 @@ This article introduces the method called "Black Box Quantization (BBQ)" to deal
 
 ---
 
-### 1. Introduction
+## Introduction
 In my previous article ["Quantization of linear and non-linear LC circuits"][2], we have learned the method to quantize a simple linear and non-linear LC circuit. However, a typical circuit always consitsing of many capacitors and inductors is more complex than a simple LC circuit. Generally, we consider this complex linear LC circuit as a black box. The following figure shows a complex linear LC circuit which is considered as a linear black box. This linear black box is usually coupled to a non-linear element. In the following figure, the gray background indicates the linear black box.
 ![Complex LC circuit][3]
 
@@ -24,7 +24,7 @@ In the following two parts, we illustrate the black box quantization method in t
 
 ---
 
-### 2. One qubit coupled to two resonator modes
+## One qubit coupled to two resonator modes
 The LC circuit we will deal with is shown in the following figure. 
 ![Qubit coupled to two cavities][4]
 For the non-linear element Josephson junction, it can be considered as a non-linear inductor. The Hamiltonian of the non-linear inductor can be expressed as:
@@ -109,7 +109,7 @@ After obtaning the whole Hamiltonian, we can diagonalize this Hamiltonian numeri
 
 ---
 
-### 3. Two qubits coupled to one resonator mode
+## Two qubits coupled to one resonator mode
 
 Then we are gong to deal with a two qubits situation, which is shown in the following figure.
 ![cavity_2qubits][6]
@@ -171,7 +171,7 @@ $$H\_{system} = H\_{linear} + H\_{non-linear}$$
 
 ---
 
-### 4. Summary
+## Summary
 This article summaries the method of black box quantization with two simple situations. The black box quantization 
 
 ---
